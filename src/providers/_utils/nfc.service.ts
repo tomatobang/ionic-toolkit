@@ -1,0 +1,7 @@
+/**
+ * NFCService
+ */
+export class NFCService{
+
+}
+
